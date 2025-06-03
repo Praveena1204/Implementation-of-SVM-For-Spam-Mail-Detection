@@ -31,8 +31,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: PREETHI D
-RegisterNumber: 212224040250
+Developed by: PRAVEENA A
+RegisterNumber: 212224040247
 */
 ```
 ```
